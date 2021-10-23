@@ -1,3 +1,11 @@
+# My machine notes
+
+Dimensions
+ - X Axis is 490mm long
+ - Y axis is 185mm long
+ - Z is unknown, depends on spoil-board
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
